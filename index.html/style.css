@@ -1,0 +1,40 @@
+.logo{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+.cabecalho{
+    background-color: aqua;
+}
+
+.cabecalho-p1{
+   
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.cabecalho-item{
+display: flex;
+justify-content: center;
+
+}
+
+.cabecalho-form{
+    padding: 30PX;
+    display: flex;
+justify-content: center;
+
+}
+
+.cabecalho-lista{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.conteudo-1{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
