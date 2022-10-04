@@ -1,3 +1,7 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+}
 .logo{
     background-color: azure;
     display: flex;
@@ -5,6 +9,7 @@
 }
 .cabecalho{
     background-color: aqua;
+    padding: 30px;
 }
 
 .cabecalho-p1{
@@ -37,4 +42,23 @@ justify-content: center;
     background-color: antiquewhite;
     display: flex;
     justify-content: center;
+}
+
+.conteudo-2{
+    background-color: antiquewhite;
+   padding: 30px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-around;
+   padding: 24px;
+}
+
+.menu-item{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
 }
